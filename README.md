@@ -58,9 +58,3 @@ A comprehensive desktop application built with C# Windows Forms and Microsoft SQ
 - Windows OS
 - .NET Framework [version]
 - Microsoft SQL Server [version]
-
-## License
-[Specify your license here, e.g., MIT, GPL, or proprietary]
-
-## Contact
-For support or inquiries, please contact [your contact information]
